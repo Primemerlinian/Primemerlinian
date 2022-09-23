@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Primemerlinian
+- 👋 Hi, I’m Mariah Lara AKA @Primemerlinian on GitHub!
 - 👀 I’m interested in Front End Development!
 - 🌱 I’m currently learning Express, MongoDB!
 - 💞️ I’m looking to collaborate on Anything!
