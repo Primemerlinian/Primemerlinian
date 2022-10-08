@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Mariah Lara AKA @Primemerlinian on GitHub!
 - 👀 I’m interested in Front End Development!
-- 🌱 I’m currently learning Express, MongoDB!
+- 🌱 I’ve currently learned HTML, CSS, JavaScript, Express, MongoDB, Mongoose!
 - 💞️ I’m looking to collaborate on Anything!
-- 📫 How to reach me on LinkedIn https://www.linkedin.com/in/mariah-lara/
+- 📫 How to reach me on [LinkedIn] (https://www.linkedin.com/in/mariah-lara/)
 - 📧 mwatson0518@gmail.com
 
 <!---
