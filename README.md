@@ -39,7 +39,7 @@
 </a>
 <br>
 <a href="https://mariah-lara-portfolio.netlify.app/" target="_blank">
-<img src=https://img.shields.io/badge/-My%20Portfolio-blue style="margin-bottom: 5px;"/>
+<img src=https://img.shields.io/badge/-My%20Portfolio-blue style="margin-bottom: 100px; width="60" height="40"/>
 </a>	
 </ul>
 </div>	<!---
