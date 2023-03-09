@@ -17,6 +17,7 @@
  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JS" **alt="JS" width="60" height="60"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain-wordmark.svg" title="TRL" **alt="TRL" width="100" height="100"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="VSC" **alt="VSC" width="80" height="80"/>
+ <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Postman.svg" title="PM" **alt="PSM" width="80" height="80"/>
 
 </div>
 
